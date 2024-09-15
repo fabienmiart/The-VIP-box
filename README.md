@@ -13,3 +13,15 @@ By facilitating simultaneous analyses under different conditions, our platform c
 
 ---------------------------------------------------
 TUTORIAL MOVIES TO USE VIPA: two tutorial movies are available on my YouTube channel --------> www.youtube.com/@FabienMiart
+
+Bill of Materials:
+  - Arduino ProMicro 5V 16 MHz (ATmega32U4), microUSB = 1 unit
+  - MicroUSB cable = 1 unit
+  - Micro Servo SG90  9g = 1 unit
+  - Mini Momentary Switch DIP Switch Support P4 = 4 units
+  - Red LED = 1 unit
+  - Green LED = 1 unit
+  - 220 Ohms resistance = 2 units
+  - OLED Screen  0.96" I2c IIC, 128x64 = 1 unit  
+  - Wire
+
