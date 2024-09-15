@@ -25,7 +25,7 @@ Bill of Materials:
   - OLED Screen  0.96" I2c IIC, 128x64 = 1 unit  
   - Wire
 
-Electronic circuit diagram:
+ELECTRONIC CIRCUIT DIAGRAM:
 ![Wiring](https://github.com/user-attachments/assets/7f76ccff-2b92-4d91-96c1-d77dec57dfc6)
 
 
